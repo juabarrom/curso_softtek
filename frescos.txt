@@ -2,5 +2,7 @@ hielo
 guisantes
 queso
 yoghur
-bonito
+caldo de pollo
 mahonesa
+filete
+hamburguesa
