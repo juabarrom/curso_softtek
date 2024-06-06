@@ -2,3 +2,5 @@ hielo
 guisantes
 queso
 yoghur
+bonito
+mahonesa
