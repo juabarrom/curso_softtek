@@ -2,3 +2,5 @@ carne vacuna
 chopped
 pinchitos
 salami
+pinchitos
+salami
